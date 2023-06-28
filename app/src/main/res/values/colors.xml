@@ -2,4 +2,16 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="paleta1_1">#025159</color> // para background app
+    <color name="paleta1_2">#3F858C</color>
+    <color name="paleta1_3">#7AB8BF</color> // para fondos imagenes
+    <color name="paleta1_4">#C4EEF2</color>
+    <color name="paleta1_5">#A67458</color> // fondo de botones
+
+    // otra selección de colores
+    <color name="paleta2_1">#010440</color> // para background app y color letra paleta2_5
+    <color name="paleta2_2">#232B59</color> //
+    <color name="paleta2_3">#425B8C</color> // para fondos imagenes
+    <color name="paleta2_4">#5881A6</color> //
+    <color name="paleta2_5">#D5F2F2</color> // fondo de botones
 </resources>
